@@ -8,16 +8,21 @@ backgroundColor: green
 
 ---
 <style>
-h1
-{
+
+h1 {
+font-size: 70px;      
 color: red;
+text-align: center;
+}
+
+h2 {
+font-size: 50px;      
 text-align: center;
 }
 </style>
 
 # hello
-
-# Первый слайд
+## Первый слайд
 
 ---
 
@@ -25,13 +30,14 @@ text-align: center;
 <!-- _backgroundColor: pink -->
 
 <style>
-h2
-{
+h3 {
+Font-size: 30px;   
+color: darkblue; 
 text-align: center;
 }
 </style>
 
-# Второй слайд
+### Второй слайд
 
 
 ---
